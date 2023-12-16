@@ -16,5 +16,5 @@ Columns
 •	attribute_id 
 •	attribute_value
 •	potential_label
-![image](https://github.com/Cemiloksuz/Scoutium_Talent_Prediction/assets/136191373/47eabd7f-31ff-4c5a-b7b3-7ebc5e8fae5f)
+
 
